@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Local Links</h2>
+
+<p><a href="/student.html">Add New Record</a> </p>
+
+<p><a href="/list.html">Show List</a> </p>
+
+</body>
+</html>
